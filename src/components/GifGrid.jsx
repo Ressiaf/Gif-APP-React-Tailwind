@@ -37,7 +37,7 @@ export const GifGrid = ({ category , DeleteCategory  }) => {
             </button>
           </div>
         </div>
-        <div className={close ? "hidden" : " block max-w-sm bg-black  mb-8   "}>
+        <div className={close ? "hidden" : " block max-w-sm bg-black  mb-8 "}>
           {loading ? (
             <Spinner className="flex  justify-center items-center" />
           ) : (

@@ -19,7 +19,7 @@ const handleSubmit = (e) => {
     return (
         <>
             <div className="mt-12 mb-6  w-auto max-w-xs">
-                <h3 className="text-indigo-500/75 text-md  flex mb-2 justify-center mr-12 ">
+                <h3 className="text-indigo-500/75 text-md  flex mb-2 justify-center mr-12">
                     Tus Gifs favoritos en un solo lugar *
                 </h3>
                 <form onSubmit={handleSubmit} className="flex  justify-center mb-8" type="submit">
