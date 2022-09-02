@@ -3,8 +3,8 @@ import { MenuIcon } from "@heroicons/react/solid";
 const NavBar = () => {
     return (
         <>
-        <nav className=" flex  min-w-screen font-robo ">
-            <div className=" bg-gradient-to-br from-purple-600 to-blue-500 overflow-hidden py-2 px-4 w-full">
+        <nav className=" flex  font-robo bg-black justify-center">
+            <div className=" max-w-md bg-gradient-to-br from-purple-600 to-blue-500 overflow-hidden py-2 px-4 w-full">
             <div className="flex  justify-between">
                 <h1 className="text-6xl ">
                 GIF
