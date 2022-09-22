@@ -1,23 +1,4 @@
-TP  1 - AVALITH REACT 1 - https://skillfactory-gif-nan.netlify.app/
-
-Consigna : 
-1 ) Agregar un botón 'reset' para borrar todas nuestras búsquedas.
--  Se genero un componente RemoveCategories y se le agrego un boton para limpiar las busquedas
-
-2 ) Agregar un botón 'eliminar' por cada categoría, para borrar de nuestra búsqueda solo esa categoría.
-- Se agrego el boton en el comonente Gif Grid
-
-3) Agregar una funcionalidad más a su criterio.
-- Funciones agregadas :
-
-Se genero un componente sppiner para mostrar mientras cargan las imagenes
-Se genero un componente de tipo Carrousel, el cual permite optimizar el espacio en mobile
-Se agrego a Gif grid , un boton para 'minimizar' las categorias buscadas recientemente
-Se agrego un mensaje de 404 cuando el buscador de categorias no devuelve sliders
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-Roadmap de actualizaciones para el mes de Agosto :
+Roadmap de actualizaciones :
 
 1- TP 2 (testing)
 
